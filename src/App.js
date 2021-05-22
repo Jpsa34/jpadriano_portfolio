@@ -1,7 +1,11 @@
 import "./App.css";
+//Import Bootstrap
 import "bootstrap/dist/css/bootstrap.min.css";
+//Components
+import Navbar from "./components/Navbar.js";
+
 function App() {
-  return <h2>Jpsa Portfolio</h2>;
+  return <Navbar />;
 }
 
 export default App;
