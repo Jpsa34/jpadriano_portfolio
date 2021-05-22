@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jpadriano_portfolio/static/css/main.2a72051a.chunk.css",
+    "main.css": "/jpadriano_portfolio/static/css/main.0ed4b368.chunk.css",
     "main.js": "/jpadriano_portfolio/static/js/main.27afde9c.chunk.js",
     "main.js.map": "/jpadriano_portfolio/static/js/main.27afde9c.chunk.js.map",
     "runtime-main.js": "/jpadriano_portfolio/static/js/runtime-main.948ae17d.js",
@@ -12,7 +12,7 @@
     "static/js/3.4c2b2dbe.chunk.js.map": "/jpadriano_portfolio/static/js/3.4c2b2dbe.chunk.js.map",
     "index.html": "/jpadriano_portfolio/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/jpadriano_portfolio/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.2a72051a.chunk.css.map": "/jpadriano_portfolio/static/css/main.2a72051a.chunk.css.map",
+    "static/css/main.0ed4b368.chunk.css.map": "/jpadriano_portfolio/static/css/main.0ed4b368.chunk.css.map",
     "static/js/2.8f1e5fcb.chunk.js.LICENSE.txt": "/jpadriano_portfolio/static/js/2.8f1e5fcb.chunk.js.LICENSE.txt",
     "static/media/vimeo.42afb713.png": "/jpadriano_portfolio/static/media/vimeo.42afb713.png"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.948ae17d.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.8f1e5fcb.chunk.js",
-    "static/css/main.2a72051a.chunk.css",
+    "static/css/main.0ed4b368.chunk.css",
     "static/js/main.27afde9c.chunk.js"
   ]
 }
